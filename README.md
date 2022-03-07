@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.fetchforms.io">
-    <img src="public/logo512.png" alt="Logo" width="80" height="80">
+    <img src="src/logo512.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Vanilla Javascript Example</h3>
