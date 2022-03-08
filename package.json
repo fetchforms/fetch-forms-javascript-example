@@ -8,7 +8,7 @@
     "build": "parcel build index.html"
   },
   "dependencies": {
-    "@fetchforms/core": "1.0.4",
+    "@fetchforms/core": "^1.0.5",
     "parcel-bundler": "^1.6.1"
   },
   "devDependencies": {
